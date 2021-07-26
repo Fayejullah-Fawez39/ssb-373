@@ -1,0 +1,46 @@
+
+.cl2{
+    color: blue;
+    background-color: aqua;
+    font-style: italic;
+}
+.cl3{
+    color: yellowgreen;
+    background-color: royalblue;
+    font-style: italic;
+}
+.cl4{
+    color :aliceblue;
+    background-color: saddlebrown;
+    font-style :inherit;
+}
+.cl5{
+    color: aquamarine;
+    background-color: navy;
+    font-style:initial;
+}
+.cl6{
+    color:lawngreen;
+    background-color: tomato;
+    font-style:normal;
+}
+.cl7{
+    color :violet;
+    background-color:hotpink;
+    font-style: italic;
+}
+.cl8{
+    color:mediumseagreen;
+    background-color:lightblue;
+    font-style: italic;
+}
+.cl9{
+    color :mediumspringgreen;
+    background-color :rosybrown;
+    font-style :normal;
+}
+.cl10{
+    color: seagreen;
+    background-color:snow;
+    font-style: italic;
+}
